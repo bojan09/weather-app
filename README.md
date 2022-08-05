@@ -11,4 +11,4 @@ Then, the code accesses the second endpoint using the Current Conditions API fro
 
 We send the city code, to the Current Condition API. From where we recive back information on the Current Condition in the City that was typed in the input.
 
-link: 
+link: https://weather-app-tdy.netlify.app/
